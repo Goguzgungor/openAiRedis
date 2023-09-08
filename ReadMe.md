@@ -1,4 +1,4 @@
-Spring-Redis ile OpenAI Entegrasyonu
+##Spring-Redis ile OpenAI Entegrasyonu
 Hackathon ya da diğer yazılım geliştirme süreçlerinde bir 3rd party sistemi yazıp daha sonra bunu standalone olarak her projede kullanabilmek biz yazılım geliştiriciler için önemli. Daha önce bir projemde standalone çalışacak şekilde bir Redis-OpenAi entegrasyonu yazmıştım. Tüm yazılanları adım adım yaparsanız yaklaşık 15 dakikada uygulamanıza Yapay Zeka entegrasyonu ekleyebilirsiniz diye öngörüyorum. Hadi başlayalım!
 
 Hatırlatma: Kodlar biraz spagetti olabilir çünkü bu yazıyı yazarken kodlarımda biraz değişiklik yaptım. Ama sizin için önemli olan adımları anlamak. Kodları daha sonra düzenleyeceğim.
